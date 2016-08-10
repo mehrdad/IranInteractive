@@ -1,0 +1,140 @@
+
+<!DOCTYPE html>
+<html lang="en">
+
+<head>
+    <meta name="author" content="The Sentinel Project">
+    <meta name="description" content="Data Visualization of Baha'is persecution in Iran, compiled by the Iran research analysts from The Sentinel Project">
+    <meta property="og:title" content="Visualization of the Persecution of the Bahá'í community in Iran - The Sentinel Project">
+    <meta property="og:type" content="website">
+    <meta property="og:description" content="Data Visualization of Baha'is persecution in Iran, compiled by the Iran research analysts from The Sentinel Project">
+    <meta property="og:url" content="http://vast-journey-7849.herokuapp.com/iranvisualization">
+    <meta property="og:image" content="http://thesentinelproject.org/wp-content/uploads/iranvisualization.png">
+    <title>Visualization of the Persecution of the Bahá'í community in Iran - The Sentinel Project</title>
+    <link rel="stylesheet" href="/stylesheets/reset.css">
+    <link rel="stylesheet" href="/lib/bootstrap/css/bootstrap.min.css">
+    <script type="text/javascript" src="/javascript/jquery.min.js"></script>
+    <script src="/lib/bootstrap/js/bootstrap.min.js"></script>
+    <script src="/lib/d3/js/d3.v3.min.js"></script>
+    <script src="/lib/topojson/js/topojson.v1.min.js"></script>
+    <script src="/lib/crossfilter/js/crossfilter.min.js"></script>
+    <script src="/javascript/visualization.js"></script>
+    <script>
+        generateVisualization("http://vast-journey-7849.herokuapp.com/api/datapoint/soc/Iran,%20Islamic%20Republic%20of?callback=?", 32, 53, "/mapfiles/iran.json", new Date(2011, 10, 06), "Iran", 5);
+    </script>
+    <script src="/javascript/moment.min.js"></script>
+    <script src="/lib/mapbox/js/mapbox.js"></script>
+    <script src="/lib/leaflet/js/leaflet.markercluster.js"></script>
+    <script src="/lib/leaflet/js/L.Control.Zoomslider.js"></script>
+    <script>
+        var _gaq = [
+            ["_setAccount", "UA-24857452-2"],
+            ["_trackPageview"]
+        ];
+        (function(d, t) {
+            var g = d.createElement(t),
+                s = d.getElementsByTagName(t)[0];
+            g.async = 1;
+            g.src = ("https:" == location.protocol ? "//ssl" : "//www") + ".google-analytics.com/ga.js";
+            s.parentNode.insertBefore(g, s)
+        }(document, "script"));
+    </script>
+    <link rel="stylesheet" href="/lib/mapbox/css/mapbox.css">
+    <link rel="stylesheet" href="/stylesheets/visualization.css">
+    <link rel="stylesheet" href="/lib/leaflet/css/L.Control.Zoomslider.css">
+    <link rel="stylesheet" href="/lib/leaflet/css/MarkerCluster.Default.css">
+    <link rel="stylesheet" href="/lib/leaflet/css/MarkerCluster.css">
+</head>
+<div class="navbar navbar-inverse">
+    <div class="navbar-inner">
+        <div class="container">
+            <ul class="nav">
+                <li><a href="http://thesentinelproject.org/situations-of-concern-2/bahais-in-iran/">Read more about our Iran Situation of Concern Monitoring</a></li>
+            </ul>
+            <ul class="nav pull-right">
+                <li>
+                    <a href="mailto:iransoc@thesentinelproject.org" style="display:inline-block;padding:0px;"><img src="/images/mail-icon.png" style="height: 28px; width:35px;"></a>
+                    <a href="http://facebook.com/stopgenocide" target="_blank" style="display:inline-block;padding:0px;"><img src="/images/facebooklogo.png" style="height: 32px; width:32px;"></a>
+                    <a href="http://twitter.com/sentinelproject" target="_blank" style="display:inline-block;padding:0px;"><img src="/images/twitter-bird-dark-bgs.png" style="height: 36px; width: 36px;"></a>
+                    <a href="http://thesentinelproject.org" target="_blank" style="display:inline-block;padding:0px;"><img src="/images/logoblack.png" style="height: 44px; width:auto;"></a>
+                </li>
+            </ul>
+        </div>
+    </div>
+</div>
+<div class="container-fluid">
+    <div id="logo">
+        <div align="center">
+            <h3>Threatwiki - Tracking and Mapping  <a href="#" id="popovertitle" data-delay2000 data-title="&lt;a href=&quot;#&quot; style=&quot;float:none&quot; class=&quot;close pull-right&quot;&gt;&times;&lt;/a&gt;" data-html="true" data-toggle="popover" data-placement="right" data-trigger="hover" data-content="Monitoring hate crimes is part of our &lt;a href='http://thesentinelproject.org/our-work/early-warning-system-overview/' target='_blank'&gt;Early Warning System&lt;/a&gt; to help us identify communities at risk of genocide. &lt;a href='http://thesentinelproject.org/new-visualization-and-hate-crime-mapping-tool-can-help-prevent-genocide/' target='_blank'&gt;Read our blog announcement for more details.&lt;/a&gt;" class="popover-link">Hate Crimes  <i class="icon-info-sign"></i></a></h3>
+            <h4>Persecution of the Baha'i community in Iran</h4><br></div>
+    </div>
+
+    <body>
+        <div id="top">
+            <div id="totals"><a href="javascript:reset(0)"><button type="button" class="btn btn-small btn-primary">Reset All Filters</button></a><br><span id="active"></span><span> datapoints out of </span><span id="total"></span>
+                <p> <strong>Tag filtered: </strong><span id="activefilter"></span></p>
+                <div><select name="stage" id="stagedropdown" onchange="filterStage(this.options[this.selectedIndex].value)"><option selected value="">Pick Genocide Stage</option><option value="Symbolization">Symbolization</option><option value="Discrimination">Discrimination</option><option value="Dehumanization">Dehumanization</option><option value="Organization">Organization</option><option value="Polarization">Polarization</option><option value="Preparation">Preparation</option><option value="Persecution">Persecution</option><option value="Extermination">Extermination</option><option value="Denial">Denial</option></select><label id="checkboxlabel" class="checkbox"><input type="checkbox" id="checkboxgeneral" onclick="filterGeneral(this.checked)"><span>Show General Datapoints <a href="#" id="popovergeneral" data-delay2000 data-title="&lt;a href=&quot;#&quot; style=&quot;float:none&quot; class=&quot;close pull-right&quot;&gt;&times;&lt;/a&gt;" data-html="true" data-toggle="popover" data-placement="right" data-trigger="hover" data-content="Datapoints are given the General tag if they describe events that are outside the scope of the Operational Process model but provide significant context to the events. &lt;a href='http://thesentinelproject.org/our-work/early-warning-system-overview/operational-process-stages-of-genocide-model/' target='_blank'&gt;Read more about our Genocide Model&lt;/a&gt;" class="popover-link"> <i class="icon-info-sign"></i></a></span></label></div>
+            </div>
+            <div id="charts">
+                <div id="date-chart" class="chart"></div>
+            </div>
+        </div>
+        <div id="lists">
+            <div id="tag-list" class="list"><span>Filter by Tag</span></div>
+            <div id="datapoint-list" class="list">
+                <div class="datapointTitle">
+                    <div class="serialnumber">#</div>
+                    <div class="title">Event Title</div>
+                    <div class="stage"> <a href="#" id="popover" data-delay2000 data-title="&lt;a href=&quot;#&quot; style=&quot;float:none&quot; class=&quot;close pull-right&quot;&gt;&times;&lt;/a&gt;" data-html="true" data-toggle="popover" data-placement="top" data-trigger="hover" data-content="The stage indicates that this event is either the cause or effect of one of the fundamental processes of genocide. &lt;a href='http://thesentinelproject.org/our-work/early-warning-system-overview/operational-process-stages-of-genocide-model/' target='_blank'&gt;Read more about our Genocide Model&lt;/a&gt;" class="popover-link">Stage  <i class="icon-info-sign"></i></a></div>
+                    <div class="date">Event Date</div>
+                </div>
+            </div>
+            <div id="mapcontainer">
+                <style>
+                    .leaflet-control-zoomslider-knob {
+                        width: 14px;
+                        height: 6px;
+                    }
+                    
+                    .leaflet-container .leaflet-control-zoomslider-body {
+                        -webkit-box-sizing: content-box;
+                        -moz-box-sizing: content-box;
+                        box-sizing: content-box;
+                    }
+                </style>
+                <div class="datapointTitle">Click to enlarge and get details on the datapoint</div>
+                <div id="map"></div>
+            </div>
+        </div>
+        <!--Modal to display datapoint information    -->
+        <div id="myModal" tabindex="-1" role="dialog" aria-labelledby="datapointevent" aria-hidden="true" class="modal hide fade">
+            <div class="modal-header"><button type="button" data-dismiss="modal" aria-hidden="true" class="close">x</button>
+                <h4 id="datapointevent">Event Details</h4></div>
+            <div class="modal-body">
+                <div class="container-fluid">
+                    <div class="row-fluid">
+                        <div class="span4">
+                            <h4>Event Date</h4><span id="datapointdate"></span></div>
+                        <div class="span4">
+                            <h4>Location</h4><span id="datapointlocation"></span></div>
+                        <div class="span4">
+                            <h4>Stage</h4><span id="datapointstage"></span></div>
+                    </div>
+                    <div class="row-fluid">
+                        <div class="span12">
+                            <h4 for="description" class="control-label">Description</h4><span id="datapointdescription"></span></div>
+                    </div>
+                    <div class="row-fluid">
+                        <div class="span12">
+                            <h4 for="description" class="control-label">Sources</h4>
+                            <div id="datapointsources"></div>
+                        </div>
+                    </div>
+                </div>
+            </div>
+            <div class="modal-footer"><button data-dismiss="modal" aria-hidden="true" class="btn">Close</button></div>
+        </div>
+    </body>
+</div>
+
+</html>

@@ -1,0 +1,80 @@
+
+<!DOCTYPE html>
+<html lang="en">
+
+<head>
+    
+    <title>Visualization of Portfolio Loans</title>
+    <link rel="stylesheet" href="/stylesheets/reset.css">
+    <link rel="stylesheet" href="/lib/bootstrap/css/bootstrap.min.css">
+    <script type="text/javascript" src="/javascript/jquery.min.js"></script>
+    <script src="/lib/bootstrap/js/bootstrap.min.js"></script>
+    <script src="/lib/d3/js/d3.v3.min.js"></script>
+    <script src="/lib/topojson/js/topojson.v1.min.js"></script>
+    <script src="/lib/crossfilter/js/crossfilter.min.js"></script>
+    <script src="/javascript/pvisualization.js"></script>
+    <script>
+        generateVisualization("tehran.json", 39, -110, "/mapfiles/iran.json", new Date(2011, 10, 06), "US", 0);
+    </script>
+    <script src="/javascript/moment.min.js"></script>
+    <script src="/lib/mapbox/js/mapbox.js"></script>
+    <script src="/lib/leaflet/js/leaflet.markercluster.js"></script>
+    <script src="/lib/leaflet/js/L.Control.Zoomslider.js"></script>
+    <script>
+        var _gaq = [
+            ["_setAccount", "UA-24857452-2"],
+            ["_trackPageview"]
+        ];
+        (function(d, t) {
+            var g = d.createElement(t),
+                s = d.getElementsByTagName(t)[0];
+            g.async = 1;
+            g.src = ("https:" == location.protocol ? "//ssl" : "//www") + ".google-analytics.com/ga.js";
+            s.parentNode.insertBefore(g, s)
+        }(document, "script"));
+    </script>
+    <link rel="stylesheet" href="/lib/mapbox/css/mapbox.css">
+    <link rel="stylesheet" href="/stylesheets/visualization.css">
+    <link rel="stylesheet" href="/lib/leaflet/css/L.Control.Zoomslider.css">
+    <link rel="stylesheet" href="/lib/leaflet/css/MarkerCluster.Default.css">
+    <link rel="stylesheet" href="/lib/leaflet/css/MarkerCluster.css">
+</head>
+
+<div class="container-fluid">
+    
+
+    <body>
+        <div id="top">
+            <div id="totals"><a href="javascript:reset(0)"><button type="button" class="btn btn-small btn-primary">Reset All Filters</button></a><br><span id="active"></span><span> datapoints out of </span><span id="total"></span>
+                
+                
+            <div id="charts">
+                <div id="date-chart" class="chart"></div>
+            </div>
+        </div>
+        
+            
+            </div>
+            <div id="mapcontainer">
+                <style>
+                    .leaflet-control-zoomslider-knob {
+                        width: 14px;
+                        height: 6px;
+                    }
+                    
+                    .leaflet-container .leaflet-control-zoomslider-body {
+                        -webkit-box-sizing: content-box;
+                        -moz-box-sizing: content-box;
+                        box-sizing: content-box;
+                    }
+                </style>
+                <div class="datapointTitle">Click to enlarge and get details on the datapoint</div>
+                <div id="map"></div>
+            </div>
+        
+        <!--Modal to display datapoint information    -->
+        
+    </body>
+</div>
+
+</html>

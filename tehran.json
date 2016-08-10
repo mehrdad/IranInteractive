@@ -1,0 +1,1098 @@
+[{
+	"__v": 2,
+	"_id": "50e9e1a5b33d99020000000e",
+	"created": "2013-01-06T20:42:13.261Z",
+	"createdBy": {
+		"name": "Josh Guthrie",
+		"_id": "50abe3ef58cdf40200000002"
+	},
+	"description": "The review court in Tehran has confirmed the four-year sentence of Kamran Rahimian, one of the teachers at the Bahai Open University. He was sentenced On February 14, on charges of membership of the Bahai community and colluding to undermine national security.  His wife,Faran Hesami has also been sentenced to four years.\r\n",
+	"event_date": "2012-05-13T00:00:00.000Z",
+	"modified": "2013-04-14T05:24:53.575Z",
+	"modifiedBy": {
+		"name": "Troy Powell",
+		"_id": "50aaa0b19120ad0200000001"
+	},
+	"serialNumber": 16,
+	"soc": "Iran, Islamic Republic of",
+	"stage": "Discrimination",
+	"title": "Kamran Rahimiyan and Faran Hesami sentencs confirmed ",
+	"sources": [{
+		"url": "http://www.edu-right.net/news/36-news/938-kamran-rahimian",
+		"sourcetype": "NGO",
+		"_id": "5161b80c6f53da020000001a"
+	}],
+	"tags": [{
+		"_id": "50e9e1ecb33d99020000000f",
+		"title": "Sentencing"
+	}, {
+		"title": "Sentence Confirmation",
+		"_id": "516a3c04f233490200000002"
+	}],
+	"Location": {
+		"latitude": "35.776216",
+		"longitude": "-119.42294500000003",
+		"title": "Tehran, Iran"
+	}
+}, {
+	"__v": 3,
+	"_id": "50e9e221b33d990200000010",
+	"created": "2013-01-06T20:44:17.929Z",
+	"createdBy": {
+		"name": "Cory Angeletti",
+		"_id": "50e9e0f1b33d99020000000b"
+	},
+	"description": "Samin Ehsani, a Bahai activist for children’s rights, has been sentenced to five years in prison. The trial was held on June 10, 2012. She was charged with propaganda against the regime, acts against national security, and de facto membership of the Bahai community. She engaged in teaching and assisting Afghan children who had been excluded from education. She was detained on August 17, 2011, in relation to some problems with her passport, and taken to Evin Prison in Tehran. Following that, security agents searched her home and seized her personal effects, computer, and items relating to the Bahai Faith. She was held for one month, before being released on bail of 175 million tumans (113,000 euros, $US142,000).",
+	"event_date": "2012-07-02T00:00:00.000Z",
+	"modified": "2013-04-12T12:39:14.246Z",
+	"modifiedBy": {
+		"name": "sarah farrukh",
+		"_id": "50abdec058cdf40200000001"
+	},
+	"serialNumber": 17,
+	"soc": "Iran, Islamic Republic of",
+	"stage": "Polarization",
+	"title": "One Baha'i Activist Sentenced to 5 Years in Prison (Samin Ehsani)",
+	"sources": [{
+		"url": "http://wp.me/pNMoJ-1nf",
+		"sourcetype": "Blog",
+		"_id": "5168007250b7630200000009"
+	}],
+	"tags": [{
+		"_id": "50e9e1ecb33d99020000000f",
+		"title": "Sentencing"
+	}],
+	"Location": {
+		"latitude": "35.696216",
+		"longitude": "-119.42294500000003",
+		"title": "Tehran, Iran"
+	}
+}, {
+	"__v": 1,
+	"_id": "50e9e4c0b33d99020000001b",
+	"created": "2013-01-06T20:55:28.021Z",
+	"createdBy": {
+		"name": "Josh Guthrie",
+		"_id": "50abe3ef58cdf40200000002"
+	},
+	"description": "Saman Astuvari, Nahale Shahidi and Sahar Beyram Abadi (سامان استوار، نهاله شهیدی و سحر بیرم آبادی ) have been sentenced by the revolutionary court in Kerman to two years in prison and a one-year suspended sentence. The charges against them are said to include teaching the Bahai Faith through humanitarian activities. Sahar Beyram Abadi and Nahale Shahidi were arrested in Kerman on March 5, 2011, and Mr. Saman Astuvari was arrested there on March 2. He was the Director of a pre-school in Bam. Sahar Beyram Abadi, a resident of Tehran, was working with the pre-school.",
+	"event_date": "2012-05-15T00:00:00.000Z",
+	"modified": "2013-04-07T18:19:31.607Z",
+	"modifiedBy": {
+		"name": "sarah farrukh",
+		"_id": "50abdec058cdf40200000001"
+	},
+	"serialNumber": 24,
+	"soc": "Iran, Islamic Republic of",
+	"stage": "Persecution",
+	"title": "Three Bahais in Kerman sentenced for work on behalf of children (Saman Astuvari, Nahale Shahidi and Sahar Beyram Abadi)",
+	"sources": [{
+		"url": "http://bahaicause.blogspot.ca/2012/06/three-bahai-in-kerman-sentenced-for.html",
+		"sourcetype": "Blog",
+		"_id": "5161b8b36f53da020000001d"
+	}],
+	"tags": [{
+		"_id": "50c4fc3eaa4e9c0200000010",
+		"title": "Arrest"
+	}, {
+		"_id": "509ea3a2269d140200000002",
+		"title": "Persecution"
+	}, {
+		"_id": "50e9e1ecb33d99020000000f",
+		"title": "Sentencing"
+	}],
+	"Location": {
+		"latitude": "35.6961111",
+		"longitude": "-119.4230556",
+		"title": "Tehran, Iran"
+	}
+}, {
+	"__v": 2,
+	"_id": "50e9e7b4b33d990200000029",
+	"created": "2013-01-06T21:08:04.878Z",
+	"createdBy": {
+		"name": "Cory Angeletti",
+		"_id": "50e9e0f1b33d99020000000b"
+	},
+	"description": "Mi`ad Afshar, a Bahai studying development at the Bahai Open University (BIHE) and his brother Mithaq Afshar, a member of the PCED, were arrested when a large number of security agents raided their home in Tehran on the morning of July 9, 2012. The security forces searched their home and took all their personal possessions away.\r\n\r\nIn March this year he was summoned to the “news” office (a euphemism for Iran’s secret service) in Bandar Abbas and threatened with arrest. On July 3, plain clothes agents appeared at his home (in Tehran) and searched his belongings, and showed a summons calling his brother Mithaq Afshar to appear in court at Evin Prison on July 8. Mithaq Afshar was recently expelled from Shahid Beheshti University in Tehran (see the report on this blog, July 5)",
+	"event_date": "2012-07-09T00:00:00.000Z",
+	"modified": "2013-04-12T12:52:12.327Z",
+	"modifiedBy": {
+		"name": "sarah farrukh",
+		"_id": "50abdec058cdf40200000001"
+	},
+	"serialNumber": 31,
+	"soc": "Iran, Islamic Republic of",
+	"stage": "Polarization",
+	"title": "Two Baha'i Students Arrested in Tehran (Mithaq Afshar and Mi'ad Afshar)",
+	"sources": [{
+		"url": "http://sensday.wordpress.com/2012/07/10/two-bahai-students-arrested-in-tehran/",
+		"sourcetype": "Blog",
+		"_id": "5168037c50b763020000000f"
+	}],
+	"tags": [{
+		"_id": "50c4fc3eaa4e9c0200000010",
+		"title": "Arrest"
+	}, {
+		"_id": "50e9e181b33d99020000000d",
+		"title": "Search"
+	}],
+	"Location": {
+		"latitude": "36.696216",
+		"longitude": "-119.42294500000003",
+		"title": "Tehran, Iran"
+	}
+}, {
+	"__v": 3,
+	"_id": "50e9e88db33d99020000002a",
+	"created": "2013-01-06T21:11:41.493Z",
+	"createdBy": {
+		"name": "Cory Angeletti",
+		"_id": "50e9e0f1b33d99020000000b"
+	},
+	"description": "July 10 and the morning of July 11, 2012 security forces raided Baha'i homes in Tehran and arrested at least six Bahai's. Those known to have been arrested are Nasim Ashrafi, Sarang Etehadi, Zhinous Rahimi, Shahab Dehqani, `Adel Na`imi and Elham Faramani. The raids are said to have been accompanied by violence and beatings.\r\n\r\nIn a raid on the home of `Adel Na`imi, brother of Afif Na`imi (49), one of the seven Bahai ‘Yaran’ (national facilitators) who are now in the fourth year of 20-year sentences for their Baha’i beliefs, the security forces arrested him and his wife Elham Faramani, and a number of guests whose names are not available. They also seized personal possessions including a computer, and left a summons for Shamim Na`imi.\r\n\r\nNasim Ashrafi, Sarang Etehadi, Zhinous Rahimi and Shahab Dehqani were arrested during a raid on their home this morning. Sarang Etehadi’s workplace was also searched, without a warrant. The officers broke down the door to enter.",
+	"event_date": "2012-07-10T00:00:00.000Z",
+	"modified": "2013-04-12T12:54:13.691Z",
+	"modifiedBy": {
+		"name": "sarah farrukh",
+		"_id": "50abdec058cdf40200000001"
+	},
+	"serialNumber": 32,
+	"soc": "Iran, Islamic Republic of",
+	"stage": "Polarization",
+	"title": "Seven Baha'is Arrested in Tehran",
+	"sources": [{
+		"url": "http://sensday.wordpress.com/2012/07/11/home-searches-and-at-least-6-arrests-in-tehran/",
+		"sourcetype": "Blog",
+		"_id": "516803f550b7630200000012"
+	}],
+	"tags": [{
+		"_id": "50c4fc3eaa4e9c0200000010",
+		"title": "Arrest"
+	}, {
+		"_id": "50e9e544b33d990200000021",
+		"title": "Beating"
+	}, {
+		"_id": "50e9e181b33d99020000000d",
+		"title": "Search"
+	}, {
+		"_id": "50e9e4d2b33d99020000001c",
+		"title": "Seizure"
+	}],
+	"Location": {
+		"latitude": "35.696216",
+		"longitude": "-119.42294500000003",
+		"title": "Tehran, Iran"
+	}
+}, {
+	"__v": 3,
+	"_id": "50e9eb37b33d990200000030",
+	"created": "2013-01-06T21:23:03.106Z",
+	"createdBy": {
+		"name": "Cory Angeletti",
+		"_id": "50e9e0f1b33d99020000000b"
+	},
+	"description": "Fu’ad Moqaddam and Emanullah Mostaqim, two individuals who were arrested in the course of raids and closure of the Bahai Open University (BIHE) have been sentenced in Tehran to five years in prison. Fu’ad Moqaddam, from Shiraz, was tried on June 23, while Emanullah Mostaqim was tried on June 30. One of the charges against them was “membership of the Bahai community.” They were arrested on May 22, 2011, and freed on bail on June 15 and June 28 respectively.",
+	"event_date": "2012-07-14T00:00:00.000Z",
+	"modified": "2013-04-12T16:35:40.886Z",
+	"modifiedBy": {
+		"name": "sarah farrukh",
+		"_id": "50abdec058cdf40200000001"
+	},
+	"serialNumber": 35,
+	"soc": "Iran, Islamic Republic of",
+	"stage": "Polarization",
+	"title": "Two Baha'is Setenced to 5 Years (Fu'ad Moqaddam and Emanullah Mostaqim)",
+	"sources": [{
+		"url": "http://sensday.wordpress.com/2012/07/14/fuad-moqaddam-and-emanullah-mostaqim-sentenced-5-years/",
+		"sourcetype": "Blog",
+		"_id": "516837dc7e1eae0200000005"
+	}],
+	"tags": [{
+		"_id": "50e9e1ecb33d99020000000f",
+		"title": "Sentencing"
+	}, {
+		"_id": "50e9eaedb33d99020000002f",
+		"title": "BIHE"
+	}],
+	"Location": {
+		"latitude": "35.696216",
+		"longitude": "-119.42294500000003",
+		"title": "Tehran, Iran"
+	}
+}, {
+	"__v": 2,
+	"_id": "50e9fb1bb33d99020000004a",
+	"created": "2013-01-06T22:30:51.962Z",
+	"createdBy": {
+		"name": "Cory Angeletti",
+		"_id": "50e9e0f1b33d99020000000b"
+	},
+	"description": "Two more Bahais have been arrested in Tehran: Shamim Na`imi and Nahid Zahra’i. During a recent raid on the home of `Adel Na`imi, in which a number of Bahais were arrested, the security forces left a summons for Shamim. When he responded to the summons, to the court in Evin prison in Tehran, on July 23, he was arrested. Nahid Zahra’i, the wife of Amir Mazidi who was arrested on July 10, was arrested herself in a new raid on their home in Tehran on July 23.\r\n\r\nAnother of those arrested in the recent raids in Tehran, Shamis Mohajer, had telephone contact with her family yesterday. Officials have refused to answer questions about the whereabouts and situation of the other Bahais arrested in those raids.",
+	"event_date": "2012-07-23T00:00:00.000Z",
+	"modified": "2013-04-12T17:34:43.907Z",
+	"modifiedBy": {
+		"name": "sarah farrukh",
+		"_id": "50abdec058cdf40200000001"
+	},
+	"serialNumber": 53,
+	"soc": "Iran, Islamic Republic of",
+	"stage": "Polarization",
+	"title": "Two Baha'is Arrested in Tehran (Shamim Na'imi and Nahid Zahra'i)",
+	"sources": [{
+		"url": "http://sensday.wordpress.com/2012/07/24/two-more-arrests-in-tehran/",
+		"sourcetype": "Blog",
+		"_id": "516845b39e93370200000009"
+	}],
+	"tags": [{
+		"_id": "50c4fc3eaa4e9c0200000010",
+		"title": "Arrest"
+	}],
+	"Location": {
+		"latitude": "35.696216",
+		"longitude": "-119.42294500000003",
+		"title": "Tehran, Iran"
+	}
+}, {
+	"__v": 3,
+	"_id": "50e9fc99b33d99020000004c",
+	"created": "2013-01-06T22:37:13.134Z",
+	"createdBy": {
+		"name": "Cory Angeletti",
+		"_id": "50e9e0f1b33d99020000000b"
+	},
+	"description": "At dawn on July 25, security agents raided the home of Bashir Ehsani in Tehran and sought to arrest him, but he was not at home. Bashir Ehsani is an activist in for the rights of children, and against discrimination in education, and one of the members of the PCED.\r\n\r\nBashir Ehsani had been sentenced to 2 years in prison, suspended for five years. This is the second time in a month that security forces have come to his house to arrest him. He was first arrested on February 10, 2010, along with his mother and several other Baha'is, following the Ashura protests of 2009, which the regime tried to blame on a Bahai conspiracy. He was held in solitary confinement in Evin prison and interrogated for 27 days before being released on bail, and since then has been repeatedly summoned for interrogation by the Ministry of Intelligence.",
+	"event_date": "2012-07-25T00:00:00.000Z",
+	"modified": "2013-04-12T17:37:16.634Z",
+	"modifiedBy": {
+		"name": "sarah farrukh",
+		"_id": "50abdec058cdf40200000001"
+	},
+	"serialNumber": 55,
+	"soc": "Iran, Islamic Republic of",
+	"stage": "Polarization",
+	"title": "Security Forces Attempt to Arrest One Baha'i Citizen (Bashir Ehsani)",
+	"sources": [{
+		"url": "http://sensday.wordpress.com/2012/07/28/security-forces-try-to-arrest-bashir-ehsani/",
+		"sourcetype": "Blog",
+		"_id": "5168464c9e9337020000000c"
+	}],
+	"tags": [{
+		"_id": "50c4fc3eaa4e9c0200000010",
+		"title": "Arrest"
+	}, {
+		"_id": "50e9edbeb33d990200000035",
+		"title": "Ministry of Intelligence"
+	}],
+	"Location": {
+		"latitude": "35.696216",
+		"longitude": "-119.42294500000003",
+		"title": "Tehran, Iran"
+	}
+}, {
+	"__v": 1,
+	"_id": "50ea037db33d990200000052",
+	"created": "2013-01-06T23:06:37.241Z",
+	"createdBy": {
+		"name": "Cory Angeletti",
+		"_id": "50e9e0f1b33d99020000000b"
+	},
+	"description": "A court in Evin Prison in Tehran has released three women who were among almost 20 Baha'is arrested in early July in a wave of arrests in Tehran, Mashhad and Shiraz. Their names are Nasim Ashrafi, Shamis Mohajer and Zhinous Rahimi. Bail was set at 1000 million rials each (66,500 euro, 816,000 US dollars). Seven of the Bahais who were arrested with them are still being held incommunicado in Tehran. Their names are `Adel Na`imi and his wife Elham Faramani, Sarang Etehadi, Shahab Dehqani, Amir Maqami-Fard, Amir Mazidi and Shamim Na`imi. It is reported that they are in Evin prison, and that their detention was at the initiative of the Information Security Corps.",
+	"event_date": "2012-07-30T00:00:00.000Z",
+	"modified": "2013-04-22T01:20:12.252Z",
+	"modifiedBy": {
+		"name": "Troy Powell",
+		"_id": "50aaa0b19120ad0200000001"
+	},
+	"serialNumber": 59,
+	"soc": "Iran, Islamic Republic of",
+	"stage": "Polarization",
+	"title": "Three Tehran Baha'is Free On Bail (Nasim Ashrafi, Shamis Mohajer, Zhinous Rahimi)",
+	"sources": [{
+		"url": "http://sensday.wordpress.com/2012/07/30/three-tehran-bahais-free-on-bail/",
+		"sourcetype": "Blog",
+		"_id": "516847b99e93370200000010"
+	}],
+	"tags": [{
+		"_id": "50e9ebcdb33d990200000032",
+		"title": "Bail"
+	}],
+	"Location": {
+		"latitude": "35.696216",
+		"longitude": "-119.42294500000003",
+		"title": "Tehran, Iran"
+	}
+}, {
+	"__v": 1,
+	"_id": "50ea07d7b33d990200000058",
+	"created": "2013-01-06T23:25:11.244Z",
+	"createdBy": {
+		"name": "Cory Angeletti",
+		"_id": "50e9e0f1b33d99020000000b"
+	},
+	"description": "Shahab Dehqani and Sarang Etehadi, two of almost 20 Baha'is who were arrested in early July in a wave of arrests in Tehran, Mashhad and Shiraz, have been freed on bail from Evin Prison in Tehran. Nasim Ashrafi, Shamis Mohajer and Zhinous Rahimi, also arrested in Tehran, have already been released on bail. This leaves six Bahais still detained in Tehran in connection with this ‘case’ (the accusations are still unclear). Their names are `Adel Na`imi and his wife Elham Faramani, Shamim Na`imi, Amir Maqami-Far, Amir Mazidi and Nahid Zahra’i.",
+	"event_date": "2012-08-08T00:00:00.000Z",
+	"modified": "2013-04-22T01:22:45.019Z",
+	"modifiedBy": {
+		"name": "Troy Powell",
+		"_id": "50aaa0b19120ad0200000001"
+	},
+	"serialNumber": 64,
+	"soc": "Iran, Islamic Republic of",
+	"stage": "Polarization",
+	"title": "Two Baha'is Free On Bail (Shehab Dehqani and Sarang Etehadi)",
+	"sources": [{
+		"url": "http://sensday.wordpress.com/2012/08/08/shahab-dehqani-and-sarang-etehadi-free-on-bail/",
+		"sourcetype": "Blog",
+		"_id": "51684de99e9337020000001d"
+	}],
+	"tags": [{
+		"_id": "50e9ebcdb33d990200000032",
+		"title": "Bail"
+	}],
+	"Location": {
+		"latitude": "35.696216",
+		"longitude": "-119.42294500000003",
+		"title": "Tehran, Iran"
+	}
+}, {
+	"__v": 1,
+	"_id": "50ea0841b33d990200000059",
+	"created": "2013-01-06T23:26:57.308Z",
+	"createdBy": {
+		"name": "Cory Angeletti",
+		"_id": "50e9e0f1b33d99020000000b"
+	},
+	"description": "Nahid Zahra’i, one of almost 20 Bahais who were arrested in early July in a wave of arrests in Tehran, Mashhad and Shiraz, has been freed on bail from Evin Prison in Tehran. `Adel Na`imi and his wife Elham Faramani, two of those arrested, are still being held incommunicado, without any telephone contact or meeting with their families, after almost one month in detention.",
+	"event_date": "2012-08-10T00:00:00.000Z",
+	"modified": "2013-04-22T01:24:51.970Z",
+	"modifiedBy": {
+		"name": "Troy Powell",
+		"_id": "50aaa0b19120ad0200000001"
+	},
+	"serialNumber": 65,
+	"soc": "Iran, Islamic Republic of",
+	"stage": "Polarization",
+	"title": "One Baha'i Citizen Free on Bail (Nahid Zahra'i)",
+	"sources": [{
+		"url": "http://sensday.wordpress.com/2012/08/10/nahid-zahrai-free-on-bail/",
+		"sourcetype": "Blog",
+		"_id": "51684e459e9337020000001f"
+	}],
+	"tags": [{
+		"_id": "50e9ebcdb33d990200000032",
+		"title": "Bail"
+	}],
+	"Location": {
+		"latitude": "27.696216",
+		"longitude": "-81.42294500000003",
+		"title": "Tehran, Iran"
+	}
+}, {
+	"__v": 3,
+	"_id": "50ea128ab33d990200000061",
+	"created": "2013-01-07T00:10:50.897Z",
+	"createdBy": {
+		"name": "Cory Angeletti",
+		"_id": "50e9e0f1b33d99020000000b"
+	},
+	"description": "Keyvan Rahimiyan, a Baha'i from Tehran and one of the teachers at the Bahai Open University (BIHE) in Iran, has been informed by telephone that he will begin serving his 5-year sentence, in Tehran’s Evin Prison, within 12 days. The judgement of the court of review, regarding his sentence, has not yet been communicated to him. He has been charged with collaborating with the Bahai Open University.",
+	"event_date": "2012-09-05T00:00:00.000Z",
+	"modified": "2013-04-12T18:26:43.627Z",
+	"modifiedBy": {
+		"name": "sarah farrukh",
+		"_id": "50abdec058cdf40200000001"
+	},
+	"serialNumber": 72,
+	"soc": "Iran, Islamic Republic of",
+	"stage": "Polarization",
+	"title": "One Baha'i Citizen Set to Begin 5-Year Sentence (Keyvan Rahimiyan)",
+	"sources": [{
+		"url": "http://sensday.wordpress.com/2012/09/05/keyvan-rahimiyan-to-begin-his-5-year-sentence/",
+		"sourcetype": "Blog",
+		"_id": "516851e39e9337020000002b"
+	}],
+	"tags": [{
+		"_id": "50e9eaedb33d99020000002f",
+		"title": "BIHE"
+	}, {
+		"_id": "50ea2d9db33d990200000075",
+		"title": "Sentence Beginning"
+	}],
+	"Location": {
+		"latitude": "27.696216",
+		"longitude": "-81.42294500000003",
+		"title": "Tehran, Iran"
+	}
+}, {
+	"__v": 2,
+	"_id": "50ea5491b33d990200000085",
+	"created": "2013-01-07T04:52:33.394Z",
+	"createdBy": {
+		"name": "Cory Angeletti",
+		"_id": "50e9e0f1b33d99020000000b"
+	},
+	"description": "On July 10, security agents with a search warrant and arrest warrant raided the home of Amir Mazidi, seizing some personal effects and arresting him. His whereabouts are unknown.\r\n",
+	"event_date": "2012-07-10T00:00:00.000Z",
+	"modified": "2013-04-12T12:53:02.409Z",
+	"modifiedBy": {
+		"name": "sarah farrukh",
+		"_id": "50abdec058cdf40200000001"
+	},
+	"serialNumber": 90,
+	"soc": "Iran, Islamic Republic of",
+	"stage": "Polarization",
+	"title": "One Baha'i Citizen Arrested in Tehran (Amir Mazidi)",
+	"sources": [{
+		"url": "http://sensday.wordpress.com/2012/07/17/confirmation-and-details-of-three-arrests-in-tehran-shiraz/",
+		"sourcetype": "Blog",
+		"_id": "516803ae50b7630200000010"
+	}],
+	"tags": [{
+		"_id": "50c4fc3eaa4e9c0200000010",
+		"title": "Arrest"
+	}, {
+		"_id": "50e9e181b33d99020000000d",
+		"title": "Search"
+	}, {
+		"_id": "50e9e4d2b33d99020000001c",
+		"title": "Seizure"
+	}],
+	"Location": {
+		"latitude": "27.696216",
+		"longitude": "-81.42294500000003",
+		"title": "Tehran, Iran"
+	}
+}, {
+	"__v": 2,
+	"_id": "510ec425ba315d020000000c",
+	"created": "2013-02-03T20:10:13.690Z",
+	"createdBy": {
+		"name": "Christopher Tuckwood",
+		"_id": "5097f78f24f10c0200000001"
+	},
+	"description": "Officials of the Payam Nour University, a state-controlled distance learning university active throughout Iran, have refused to enroll Sama Nourani, a Baha'i student serving a sentence of one year in Evin Prison in Tehran. Last year he completed the necessary entrance exams for a course in electrical engineering, but the university officials refuse to enroll him because he is regarded as absent without leave from military service. In Iranian law, being in prison is one of the circumstances under which absence from military service is permitted.\r\n\r\nSama Nourani was accepted for a course in medical engineering at Sahand University in Tabriz in October 2008, but was expelled after three semesters because of his Bahai beliefs. At that time, his name was sent to the authorities responsible for granting exemption from military service. He was arrested on March 2, 2010, along with Navid Khanjani and Iqan Shahidi.",
+	"event_date": "2012-05-05T00:00:00.000Z",
+	"modified": "2013-04-07T18:08:43.263Z",
+	"modifiedBy": {
+		"name": "sarah farrukh",
+		"_id": "50abdec058cdf40200000001"
+	},
+	"serialNumber": 151,
+	"soc": "Iran, Islamic Republic of",
+	"stage": "Persecution",
+	"title": "Baha'i student barred from Payam Nour University (Sama Nourani)",
+	"sources": [{
+		"url": "http://sensday.wordpress.com/?s=Sama+Nourani+excluded+from+open+University",
+		"sourcetype": "Blog",
+		"_id": "5161b62b6f53da0200000011"
+	}],
+	"tags": [{
+		"_id": "509da3ec2944880200000003",
+		"title": "Expulsion (school)"
+	}],
+	"Location": {
+		"title": "Tehran, Iran",
+		"latitude": "27.6961111",
+		"longitude": "-81.4230556"
+	}
+}, {
+	"__v": 1,
+	"_id": "50e9f908b33d990200000046",
+	"created": "2013-01-06T22:22:00.582Z",
+	"createdBy": {
+		"name": "Cory Angeletti",
+		"_id": "50e9e0f1b33d99020000000b"
+	},
+	"description": "Aziz Samandari, a 40 year-old Baha’i IT specialist, was arrested on 7 July 2012 in his home in Tehran, to begin serving his 5-year prison sentence, in Evin prison. He was sentenced in October 2011 after a 10-minute trial, in which the only question he was asked was whether he belonged to the Baha’i community. The very short judgment – which was read out but not handed over – speaks of his “active membership in the misguided Baha’i sect” and his association with the Baha’i Institute for Higher Education.",
+	"event_date": "2012-07-07T00:00:00.000Z",
+	"modified": "2013-04-13T17:13:52.256Z",
+	"modifiedBy": {
+		"name": "sarah farrukh",
+		"_id": "50abdec058cdf40200000001"
+	},
+	"serialNumber": 156,
+	"soc": "Iran, Islamic Republic of",
+	"stage": "Polarization",
+	"title": "One Baha'i Arrested and Sentenced to 5 Years (Aziz Samandari)",
+	"sources": [{
+		"url": "http://sensday.wordpress.com/2012/07/22/aziz-samandari-begins-his-5-year-sentence/",
+		"sourcetype": "Blog",
+		"_id": "516800df50b763020000000b"
+	}],
+	"tags": [{
+		"_id": "50c4fc3eaa4e9c0200000010",
+		"title": "Arrest"
+	}, {
+		"_id": "509da41e2944880200000004",
+		"title": "Polarization"
+	}, {
+		"_id": "50e9e1ecb33d99020000000f",
+		"title": "Sentencing"
+	}],
+	"Location": {
+		"latitude": "27.696216",
+		"longitude": "-81.42294500000003",
+		"title": "Tehran, Iran"
+	}
+}, {
+	"__v": 1,
+	"_id": "50ed65cf93b2f90200000008",
+	"created": "2013-01-09T12:42:55.000Z",
+	"createdBy": {
+		"name": "Sheldbe Chan",
+		"_id": "50ea5a80b33d990200000086"
+	},
+	"description": "Keyvan Rahimiyan ( کیوان رحیمیان ), a Bahai from Tehran and one of the teachers at the Bahai Open University (BIHE) in Iran, has been sentenced to five years in prison and a fine of 97 million rials (6,300 euro, 7,900 US dollars). He was charged with collaborating with the Bahai Open University. Sentence was handed down on June 12, and he has 20 days to appeal the sentence. He was freed on bail on September 21, 2011.",
+	"event_date": "2012-06-12T00:00:00.000Z",
+	"modified": "2013-11-02T20:50:47.769Z",
+	"modifiedBy": {
+		"name": "Igor Gontcharov",
+		"_id": "523f4834945ab50200000032"
+	},
+	"serialNumber": 171,
+	"soc": "Iran, Islamic Republic of",
+	"stage": "Polarization",
+	"title": "Sentenced and fined (Keyvan Rahimiyan) ",
+	"sources": [{
+		"_id": "5167f4f650b7630200000002",
+		"sourcetype": "NGO",
+		"url": "http://sensday.wordpress.com/old-news/2012-04-06/"
+	}],
+	"tags": [{
+		"_id": "50e9e1ecb33d99020000000f",
+		"title": "Sentencing"
+	}],
+	"Location": {
+		"latitude": "35.696216",
+		"longitude": "51.42294500000003",
+		"title": "Tehran, Iran"
+	}
+}, {
+	"__v": 1,
+	"_id": "50ed66ef93b2f9020000000a",
+	"created": "2013-01-09T12:47:43.170Z",
+	"createdBy": {
+		"name": "Sheldbe Chan",
+		"_id": "50ea5a80b33d990200000086"
+	},
+	"description": "Shaqaa’eq Agahi ( شقایق آگاه ), a graduate studying process design for chemical engineering, has been expelled from Tehran University at the end of her fourth semester of study. Her expulsion was announced in a letter that came directly from the Ministry of Science. The reason was “accepting improper religious beliefs.”",
+	"event_date": "2012-06-20T00:00:00.000Z",
+	"modified": "2013-04-12T12:31:59.861Z",
+	"modifiedBy": {
+		"name": "sarah farrukh",
+		"_id": "50abdec058cdf40200000001"
+	},
+	"serialNumber": 173,
+	"soc": "Iran, Islamic Republic of",
+	"stage": "Polarization",
+	"title": "Expulsion of student (Shaqaa'eq Agahi) ",
+	"sources": [{
+		"url": "http://sensday.wordpress.com/old-news/2012-04-06/",
+		"sourcetype": "Blog",
+		"_id": "5167febf50b7630200000005"
+	}],
+	"tags": [{
+		"_id": "509da3ec2944880200000003",
+		"title": "Expulsion (school)"
+	}, {
+		"_id": "509da41e2944880200000004",
+		"title": "Polarization"
+	}],
+	"Location": {
+		"latitude": "35.696216",
+		"longitude": "51.42294500000003",
+		"title": "Tehran, Iran"
+	}
+}, {
+	"__v": 1,
+	"_id": "50fe40335667a30200000006",
+	"created": "2013-01-22T07:30:59.150Z",
+	"createdBy": {
+		"name": "Sheldbe Chan",
+		"_id": "50ea5a80b33d990200000086"
+	},
+	"description": "`Adel Na`imi ( عادل نعیمی ), who with his wife Elham Faramani ( الهام فراهانی ) was among a group of almost 20 Bahais who were arrested in early July in Tehran, Mashhad and Shiraz, is still being held in solitary confinement, 70 days later. Their son Shamim (شمیم) was also arrested, a few days after his parents. All three were held in Evin Prison in Tehran. Shamim and Elham have since been released on bail but `Adel Na`imi, who suffers from diabetes, is held in solitary confinement, and denied access to a lawyer or a telephone. He has had one brief opportunity to talk to his wife. ",
+	"event_date": "2012-10-09T00:00:00.000Z",
+	"modified": "2013-04-12T18:52:05.873Z",
+	"modifiedBy": {
+		"name": "sarah farrukh",
+		"_id": "50abdec058cdf40200000001"
+	},
+	"serialNumber": 179,
+	"soc": "Iran, Islamic Republic of",
+	"stage": "Polarization",
+	"title": "Continued Solidarity confinement (Adel Na'imi') in Evin Prison ",
+	"sources": [{
+		"url": "http://sensday.wordpress.com/2012/10/09/adel-naimi-now-70-days-in-solitary/",
+		"sourcetype": "Blog",
+		"_id": "516857d59e9337020000003b"
+	}],
+	"tags": [],
+	"Location": {
+		"latitude": "35.696216",
+		"longitude": "51.42294500000003",
+		"title": "Tehran, Iran"
+	}
+}, {
+	"__v": 1,
+	"_id": "51243b23f0b09b0200000005",
+	"created": "2013-02-20T02:55:31.440Z",
+	"createdBy": {
+		"name": "Cory Angeletti",
+		"_id": "50e9e0f1b33d99020000000b"
+	},
+	"description": "Shahin Negari, a Baha’i citizen and one of the Baha’i virtual university professors has been arrested and there is no news of his location.\r\n\r\nAround midday of Sunday 13th of January, Shahin Negari, a Baha’i citizen who is a resident of Tehran and one of the professors at Baha’i virtual university, has been arrested at his home by security forces. There is no information about Shahin Negari's whereabouts.\r\n\r\nHe is one of the Baha’i virtual university professors which called private science center institute who had been arrested during the invasion of the security forces to the homes of the Baha’i colleagues of the Baha’i virtual university on May 22nd of 2011 and been released after 40 days of being detained on bail.\r\n",
+	"event_date": "2013-01-13T00:00:00.000Z",
+	"modified": "2013-03-28T02:54:13.551Z",
+	"modifiedBy": {
+		"name": "sarah farrukh",
+		"_id": "50abdec058cdf40200000001"
+	},
+	"serialNumber": 189,
+	"soc": "Iran, Islamic Republic of",
+	"stage": "Polarization",
+	"title": "Baha’i Virtual University Professor Arrested (Shahin Negari)",
+	"sources": [{
+		"url": " http://iranbriefing.net/?p=16336&utm_source=rss&utm_medium=rss&utm_campaign=shahin-negari-bahai-virtual-university-professor-arrested",
+		"sourcetype": "NGO",
+		"_id": "5153b0d503e9f60200000027"
+	}],
+	"tags": [{
+		"_id": "50c4fc3eaa4e9c0200000010",
+		"title": "Arrest"
+	}],
+	"Location": {
+		"title": "Tehran, Iran",
+		"latitude": "35.6961111",
+		"longitude": "51.4230556"
+	}
+}, {
+	"__v": 2,
+	"_id": "51243dbdf0b09b020000000b",
+	"created": "2013-02-20T03:06:37.005Z",
+	"createdBy": {
+		"name": "Cory Angeletti",
+		"_id": "50e9e0f1b33d99020000000b"
+	},
+	"description": "Sepide Vaziri Pour Haghighi and Samir Golshan were expelled from their studies at Payame Noor University due to their Baha’i faith.\r\n\r\n",
+	"event_date": "2013-02-18T00:00:00.000Z",
+	"modified": "2013-04-12T21:50:30.924Z",
+	"modifiedBy": {
+		"name": "sarah farrukh",
+		"_id": "50abdec058cdf40200000001"
+	},
+	"serialNumber": 195,
+	"soc": "Iran, Islamic Republic of",
+	"stage": "Polarization",
+	"title": "Two Baha’i students expelled due to faith (Sepide Vaziri Pour Haghighi and Samir Golshan)",
+	"sources": [{
+		"url": "http://www.irandailybrief.com/2013/02/18/two-bahai-students-expelled-due-to-faith/",
+		"sourcetype": "Newspaper",
+		"_id": "512fa099d027260200000002"
+	}],
+	"tags": [{
+		"_id": "509da3ec2944880200000003",
+		"title": "Expulsion (school)"
+	}],
+	"Location": {
+		"latitude": "35.696216",
+		"longitude": "51.42294500000003",
+		"title": "Tehran, Iran"
+	}
+}, {
+	"__v": 1,
+	"_id": "5125748ca0a605020000000c",
+	"created": "2013-02-21T01:12:44.448Z",
+	"createdBy": {
+		"name": "Cory Angeletti",
+		"_id": "50e9e0f1b33d99020000000b"
+	},
+	"description": "Britain ordered the immediate closure of the Iranian embassy in London and has closed its embassy in Tehran, following a mob attack Tuesday on British embassy compounds in the Iranian capital.  Also, Iran's diplomatic staff has been ordered to leave the United Kingdom within 48 hours.\r\n\r\nLINK:\r\nhttp://www.payvand.com/news/11/nov/1316.html?utm_source=twitterfeed&utm_medium=twitter",
+	"event_date": "2011-11-30T00:00:00.000Z",
+	"modified": "2013-03-27T22:38:40.526Z",
+	"modifiedBy": {
+		"name": "sarah farrukh",
+		"_id": "50abdec058cdf40200000001"
+	},
+	"serialNumber": 207,
+	"soc": "Iran, Islamic Republic of",
+	"stage": "Symbolization",
+	"title": "Britain Closes Embassy In Tehran After Attacks, Orders Iranian Diplomats Out",
+	"sources": [{
+		"url": "http://www.payvand.com/news/11/nov/1316.html",
+		"sourcetype": "NGO",
+		"_id": "515374f0ca8c360200000008"
+	}],
+	"tags": [{
+		"_id": "50ea17e0b33d990200000065",
+		"title": "Diplomacy"
+	}, {
+		"_id": "50ea17c8b33d990200000064",
+		"title": "International"
+	}],
+	"Location": {
+		"title": "Tehran, Iran",
+		"latitude": "35.6961111",
+		"longitude": "51.4230556"
+	}
+}, {
+	"__v": 2,
+	"_id": "5125774ba0a6050200000014",
+	"created": "2013-02-21T01:24:27.770Z",
+	"createdBy": {
+		"name": "Cory Angeletti",
+		"_id": "50e9e0f1b33d99020000000b"
+	},
+	"description": "Recently the Office for the administration of public places in Tehran wrote to the Department of Culture in Karaj, instructing them to withdraw the operating licence of Mr. Sa`id Mirza-Zadeh, a Baha'i artist living in Karaj who is the owner of the Parsa Institute of Sound Arts in Tehran.\r\n\r\nLINK:\r\nhttp://networkedblogs.com/rCQsy",
+	"event_date": "2011-12-05T00:00:00.000Z",
+	"modified": "2013-03-28T01:39:21.539Z",
+	"modifiedBy": {
+		"name": "sarah farrukh",
+		"_id": "50abdec058cdf40200000001"
+	},
+	"serialNumber": 215,
+	"soc": "Iran, Islamic Republic of",
+	"stage": "Polarization",
+	"title": "Business licence revoked in Karaj",
+	"sources": [{
+		"url": "http://bahaicause.blogspot.ca/2011/12/business-licence-revoked-in-karaj.html",
+		"sourcetype": "Blog",
+		"_id": "51539f4903e9f60200000004"
+	}],
+	"tags": [{
+		"_id": "50c4f786aa4e9c0200000008",
+		"title": "Business Closure"
+	}],
+	"Location": {
+		"title": "Tehran, Iran",
+		"latitude": "35.6961111",
+		"longitude": "51.4230556"
+	}
+}, {
+	"__v": 2,
+	"_id": "50ea49b6b33d99020000007b",
+	"created": "2013-01-07T04:06:14.006Z",
+	"createdBy": {
+		"name": "Troy Powell",
+		"_id": "50aaa0b19120ad0200000001"
+	},
+	"description": "Wahed Khuloosi ( واحد خلوصی ), a Bahai student who has been excluded from higher education, has been sentenced in a Tehran court to five years in prison. His lawyer was notified of the sentence on June 6. The charges were “meeting and collusion with the intent to commit acts against national security,” “membership of the Bahai community, effective action in it, and widespread teaching of the Bahai Faith; membership of the Committee for the Right of Education, links to the Committee of Human Rights Activists in Iran, and participation in propaganda against the regime.”",
+	"event_date": "2012-06-06T00:00:00.000Z",
+	"modified": "2013-04-07T19:28:12.932Z",
+	"modifiedBy": {
+		"name": "sarah farrukh",
+		"_id": "50abdec058cdf40200000001"
+	},
+	"serialNumber": 88,
+	"soc": "Iran, Islamic Republic of",
+	"stage": "Polarization",
+	"title": "Waheed Khulosi sentenced 5 years",
+	"sources": [{
+		"url": "http://sensday.wordpress.com/old-news/2012-04-06/",
+		"sourcetype": "Blog",
+		"_id": "5161c8cc6f53da0200000040"
+	}],
+	"tags": [{
+		"_id": "50e9e1ecb33d99020000000f",
+		"title": "Sentencing"
+	}],
+	"Location": {
+		"title": "Tehran, Iran",
+		"latitude": "35.6961111",
+		"longitude": "51.4230556"
+	}
+}, {
+	"__v": 1,
+	"_id": "50ec11007327a70200000003",
+	"created": "2013-01-08T12:28:48.155Z",
+	"createdBy": {
+		"name": "Sheldbe Chan",
+		"_id": "50ea5a80b33d990200000086"
+	},
+	"description": "Siamak Iqani ( سیامک ایقانی ) is a Bahai serving a 3-year sentence in Semnan prison. His sentence began on November 6, 2009. From the beginning of his sentence he has suffered severe respiratory problems due to the unfavourable conditions in prison, and his transfer to a section for prisoners who smoke and addicts. For the past 3 months he has also been suffering from rheumatism, because of the conditions in the prison. Despite his illness and the pain he suffers, prison authorities will not allow him a furlough. He has two children, aged 9 and 3, and his wife Anisa Fana’ayan ( انیسا فناییان ) has also been sentenced to imprisonment, for four years and 4 months.",
+	"event_date": "2012-06-06T00:00:00.000Z",
+	"modified": "2013-04-07T18:59:46.327Z",
+	"modifiedBy": {
+		"name": "sarah farrukh",
+		"_id": "50abdec058cdf40200000001"
+	},
+	"serialNumber": 114,
+	"soc": "Iran, Islamic Republic of",
+	"stage": "Dehumanization",
+	"title": "Health deteriorates  (Sismak Iqani) in prison ",
+	"sources": [{
+		"url": "http://sensday.wordpress.com/old-news/2012-04-06/",
+		"sourcetype": "Blog",
+		"_id": "5161c2226f53da020000003c"
+	}, {
+		"url": "http://khabarnavard.blogspot.nl/2012/06/blog-post.html",
+		"sourcetype": "Blog",
+		"_id": "5161c2226f53da020000003d"
+	}],
+	"tags": [{
+		"_id": "509da3cb2944880200000002",
+		"title": "Dehumanization"
+	}, {
+		"_id": "50ea4470b33d990200000079",
+		"title": "Health Conditions"
+	}, {
+		"_id": "509da41e2944880200000004",
+		"title": "Polarization"
+	}],
+	"Location": {
+		"title": "Tehran, Iran",
+		"latitude": "35.6961111",
+		"longitude": "51.4230556"
+	}
+}, {
+	"title": "Foad Khanjani: Baha'I sentenced to four years in prison",
+	"description": "Foad Khanjani was recently sentenced to four years in prison. Khanjani, a member of the Bahai faith, was arrested on March 1st 2010 he was kept in solitary confinement for 25 days while receiving pressure for a televised interview. Khanjani was released on bail May 10th 2010. On the second of January 2011 Judge Moghisseh sentenced Khanjani on the charges of “assembly and collusion with the intent to commit crimes against national security,” and participating in disruption of public order. Foad turned himself in to Evin Prison on the 17th of January to begin serving his four-year prison term. It is also notable Khanjani was dismissed from the Isfahan Industrial Management Organization where he was a student. His dismissal was due to the fact that he was Bahá’í. ",
+	"soc": "Iran, Islamic Republic of",
+	"stage": "Polarization",
+	"created": "2013-08-09T20:11:03.018Z",
+	"modified": "2013-08-09T20:26:58.069Z",
+	"event_date": "2012-01-17T00:00:00.000Z",
+	"serialNumber": 313,
+	"createdBy": {
+		"name": "Shayan Edalati",
+		"_id": "51ca33c06f00b40200000002"
+	},
+	"modifiedBy": {
+		"name": "Shayan Edalati",
+		"_id": "51ca33c06f00b40200000002"
+	},
+	"_id": "52054cd7fab223020000000d",
+	"__v": 0,
+	"sources": [{
+		"url": "http://networkedblogs.com/t8aEX",
+		"sourcetype": "Blog",
+		"_id": "52054cd7fab223020000000e"
+	}],
+	"tags": [{
+		"_id": "50e9e1ecb33d99020000000f",
+		"title": "Sentencing"
+	}],
+	"Location": {
+		"title": "Tehran, Iran",
+		"latitude": "35.696216",
+		"longitude": "51.42294500000003"
+	}
+}, {
+	"__v": 3,
+	"_id": "50e9f7d9b33d990200000043",
+	"created": "2013-01-06T22:16:57.586Z",
+	"createdBy": {
+		"name": "Troy Powell",
+		"_id": "50aaa0b19120ad0200000001"
+	},
+	"description": "Sadaf Thabetayan ( صدف ثابتیان ), one of the Bahais arrested in the raids targetting the Bahai Institute for Higher Education (BIHE), was arrested in Tehran on May 27, and taken to Evin prison to begin serving her two-year sentence. She is reported to have been arrested at the airport, as she was leaving for a holiday abroad. She had not been banned from travel, and was not due to begin her sentence until June 12.\r\n\r\nSadaf Thabetayan is from Sari, and was arrested there, along with two other Bahais, in June 2009, but was later moved to Tehran. She has been free on bail since June 2011",
+	"event_date": "2012-05-27T00:00:00.000Z",
+	"modified": "2013-08-11T13:39:33.320Z",
+	"modifiedBy": {
+		"name": "Troy Powell",
+		"_id": "50aaa0b19120ad0200000001"
+	},
+	"serialNumber": 153,
+	"soc": "Iran, Islamic Republic of",
+	"stage": "Polarization",
+	"title": "Sadaf Thabetayan begins sentence (BIHE)",
+	"sources": [{
+		"url": "http://sensday.wordpress.com/old-news/2012-04-06/",
+		"sourcetype": "Blog",
+		"_id": "5161bf026f53da020000002c"
+	}, {
+		"url": "http://www.edu-right.net/news/36-news/955-sadafsabetian-arrest",
+		"sourcetype": "NGO",
+		"_id": "5161bf026f53da020000002d"
+	}],
+	"tags": [{
+		"_id": "50c4fc3eaa4e9c0200000010",
+		"title": "Arrest"
+	}, {
+		"_id": "50ea2d9db33d990200000075",
+		"title": "Sentence Beginning"
+	}],
+	"Location": {
+		"latitude": "35.696216",
+		"longitude": "51.42294500000003",
+		"title": "Tehran, Iran"
+	}
+}, {
+	"title": "Sama Nourani excluded from open University",
+	"description": "Officials of the Payam Nour University, a state-controlled distance learning university active throughout Iran, have refused to enroll Sama Nourani ( سما نورانی ), a Bahai student serving a sentence of one year in Evin Prison in Tehran. Last year he completed the necessary entrance exams for a course in electrical engineering, but the university officials refuse to enroll him because he is regarded as absent without leave from military service. In Iranian law, being in prison is one of the circumstances under which absence from military service is permitted. \r\n\r\nSama Nourani was accepted for a course in medical engineering at Sahand University in Tabriz in October 2008, but was expelled after three semesters because of his Bahai beliefs. At that time, his name was sent to the authorities responsible for granting exemption from military service. He was arrested on March 2, 2010, along with Navid Khanjani and Iqan Shahidi. ",
+	"soc": "Iran, Islamic Republic of",
+	"stage": "Polarization",
+	"created": "2013-09-10T05:55:54.258Z",
+	"modified": "2013-09-10T05:55:54.258Z",
+	"event_date": "2012-05-05T00:00:00.000Z",
+	"serialNumber": 596,
+	"createdBy": {
+		"name": "Shayan Edalati",
+		"_id": "51ca33c06f00b40200000002"
+	},
+	"modifiedBy": {
+		"name": "Shayan Edalati",
+		"_id": "51ca33c06f00b40200000002"
+	},
+	"_id": "522eb46a09d93f020000000a",
+	"__v": 0,
+	"sources": [{
+		"url": "http://sensday.wordpress.com/old-news/2012-04-06/",
+		"sourcetype": "Blog",
+		"_id": "522eb46a09d93f020000000b"
+	}],
+	"tags": [{
+		"_id": "509da3ec2944880200000003",
+		"title": "Expulsion (school)"
+	}],
+	"Location": {
+		"title": "Tehran, Iran",
+		"latitude": "35.696216",
+		"longitude": "51.42294500000003"
+	}
+}, {
+	"title": "Daniel Ouji summoned to prison",
+	"description": "Daniel Ouji ( دانیال اوجی ), who was a student of computer studies at the Bahai Open University (BIHE) until the authorities closed it and arrested many of its teachers, has been summoned to Evin Prison in Tehran. On May 22, 2011, he was stopped by unidentified persons while leaving his home, taken to an unofficial ‘jail,’ tortured, and detained for three days. His torturers burned him with cigarettes, used thorns, and hung him upside down and abused and beat him. No judicial documents (such as a detention order) were shown to him. [Since he has been summoned to Evin prison, not to a court, it appears that his abduction and torture was in fact a trial, and he has been sentenced as a result ~ Sen]",
+	"soc": "Iran, Islamic Republic of",
+	"stage": "Polarization",
+	"created": "2013-10-03T18:33:21.974Z",
+	"modified": "2013-10-03T18:33:21.974Z",
+	"event_date": "2012-04-18T00:00:00.000Z",
+	"serialNumber": 666,
+	"createdBy": {
+		"name": "Igor Gontcharov",
+		"_id": "523f4834945ab50200000032"
+	},
+	"modifiedBy": {
+		"name": "Igor Gontcharov",
+		"_id": "523f4834945ab50200000032"
+	},
+	"_id": "524db8715afaf60200000024",
+	"__v": 0,
+	"sources": [{
+		"url": "http://sensday.wordpress.com/old-news/2012-04-06/",
+		"sourcetype": "NGO",
+		"_id": "524db8715afaf60200000025"
+	}],
+	"tags": [{
+		"title": "Summons",
+		"_id": "5157ac30b674860200000017"
+	}],
+	"Location": {
+		"title": "Tehran, Iran",
+		"latitude": "35.696216",
+		"longitude": "51.42294500000003"
+	}
+}, {
+	"__v": 1,
+	"_id": "50ed5b4a93b2f90200000003",
+	"created": "2013-01-09T11:58:02.081Z",
+	"createdBy": {
+		"name": "Sheldbe Chan",
+		"_id": "50ea5a80b33d990200000086"
+	},
+	"description": "A prominent Iranian human rights lawyer has been sentenced to 13 years in prison by a Tehran revolutionary court, his daughter said Tuesday.\r\n\r\nMaede Soltani, who lives in Germany, said her family was officially notified Monday of last week's ruling, which came during the appeals process.\r\n\r\nHer father, Abdolfattah Soltani, co-founded a human rights group with Iranian Nobel Peace Prize laureate Shirin Ebadi, was arrested last year.\r\n\r\nA court in March initially sentenced the 58-year-old to 18 years in prison on various charges, including co-founding the Center for Human Rights Defenders, spreading anti-government propaganda and endangering national security.\r\n\r\n\"My father was told that his sentence would be reduced (further) if he would apologize and speak out against Ms. Ebadi in an open letter or an interview,\" Maede Soltani said. \"He declined.\"\r\n\r\nAmnesty International maintains Soltani is a \"non-violent political prisoner who is being jailed only for his legitimate activities\" as a human rights lawyer.\r\n\r\n\"Abdolfattah Soltani is one of the bravest human rights defenders in Iran,\" the group said after his detention last September, urging his immediate release.\r\n\r\nMaede Soltani told The Associated Press that last week's \"politically motivated\" ruling cannot be appealed a second time.\r\n\r\nSoltani was previously arrested for seven months in 2005 and again for several months in the wake of Iran's disputed presidential elections in 2009.\r\n\r\nThe revolutionary court also upheld the decision to transfer Soltani to a remote prison in the city of Borazjan, about 1,000 kilometers (620 miles) southwest of Tehran, Maede Soltani said, adding that the family will barely be able to visit him there.",
+	"event_date": "2012-06-13T00:00:00.000Z",
+	"modified": "2013-11-02T19:45:17.873Z",
+	"modifiedBy": {
+		"name": "Igor Gontcharov",
+		"_id": "523f4834945ab50200000032"
+	},
+	"serialNumber": 118,
+	"soc": "Iran, Islamic Republic of",
+	"stage": "Polarization",
+	"title": "Sentencing of Iranian Human Rights lawyer (Abdolfattah Soltani) ",
+	"sources": [{
+		"url": "http://www.rferl.org/content/iran-human-rights-lawyer-sentenced-soltani-13-years/24612619.html",
+		"sourcetype": "Newspaper",
+		"_id": "5275564d6028590200000004"
+	}],
+	"tags": [{
+		"_id": "50e9e1ecb33d99020000000f",
+		"title": "Sentencing"
+	}],
+	"Location": {
+		"latitude": "35.696216",
+		"longitude": "51.42294500000003",
+		"title": "Tehran, Iran"
+	}
+}, {
+	"__v": 1,
+	"_id": "50fe3bc55667a30200000001",
+	"created": "2013-01-22T07:12:05.278Z",
+	"createdBy": {
+		"name": "Sheldbe Chan",
+		"_id": "50ea5a80b33d990200000086"
+	},
+	"description": "Keyvan Rahimiyan ( کیوان رحیمیان ) and Azizullah Samandari ( عزیز‌الله سمندری ) were transferred from Evin Prison in Tehran to Raja’i Shahr prison in Karaj on October 3. Both are serving 5-year prison sentences. After spending a night in qurantine, they were moved to wing 12 of the prison. However the PCED reported on August 5 that Azizullah Samandari was one of six Bahais transferred from Evin to Raja’i Shahr.\r\n\r\nUpdate February 15 2013\r\nThe PCED has withdrawn its previous report that Azizullah Samandari ( عزیز‌الله سمندری ) has been granted furlough from Raja’i Shahr prison, and has apologized to his family.",
+	"event_date": "2012-10-03T00:00:00.000Z",
+	"modified": "2013-11-19T19:28:59.229Z",
+	"modifiedBy": {
+		"name": "Troy Powell",
+		"_id": "50aaa0b19120ad0200000001"
+	},
+	"serialNumber": 175,
+	"soc": "Iran, Islamic Republic of",
+	"stage": "Polarization",
+	"title": "Prison transfer (Keyvan Rahimiyan and Azzizullah Samandari) ",
+	"sources": [{
+		"_id": "516855139e93370200000034",
+		"sourcetype": "NGO",
+		"url": "http://sensday.wordpress.com/2012/10/05/keyvan-rahimiyan-and-azizullah-samandari-in-rajai-shahr-prison/"
+	}],
+	"tags": [{
+		"_id": "50e9e302b33d990200000014",
+		"title": "Prison Transfer"
+	}, {
+		"_id": "50ea6c25b33d99020000008f",
+		"title": "Rajai Shahr"
+	}],
+	"Location": {
+		"latitude": "35.696216",
+		"longitude": "51.42294500000003",
+		"title": "Tehran, Iran"
+	}
+}, {
+	"__v": 5,
+	"_id": "50ea0f1bb33d99020000005d",
+	"created": "2013-01-06T23:56:11.158Z",
+	"createdBy": {
+		"name": "Cory Angeletti",
+		"_id": "50e9e0f1b33d99020000000b"
+	},
+	"description": "Leva Khanjani, a Baha'i citizen banned from continuing her education, appeared at Tehran’s Evin Prison on Saturday, August 25, 2012 to begin serving her two-year prison term.\r\n\r\nLeva Khanjani and her husband, Babak Mobasher, were first arrested on January 3, 2010 and were later transferred to Rajaee Shahr Prison. The couple was released on bail on March 1, 2010. The Tehran Revolutionary Court sentenced the couple to two years in prison on September 29, 2010. Branch 54 of Tehran Appeals Court under Judge Movahed later upheld the sentence.\r\n\r\nLeva Khanjani is granddaughter of Jamaleddin Khanjani, one of seven Bahai leaders who were sentenced to 20 years in prison after their May 2008 arrest. She is also sister of Foad Khanjani, who was sentenced to four years in prison by Tehran Revolutionary Court on January 17, 2012. Both Jamaleddin and Foad Khanjani are now serving their sentences inside Rajaee Shahr Prison.\r\n\r\nLeva Khanjani’s father, Alaeddin Khanjani was also arrested by security forces on February 10, 2010 and was released on bail on March 16, 2010.\r\n\r\nUpdate: July 10 2013\r\nLeva Khanjani ( لوا خانجانی، ), a Bahai student excluded from education, and the granddaughter of the imprisoned Bahai facilitator Jamaloddin Khanjani, was granted 4 days of prison furlough beginning on July 10. She has served 11 months of a two-year sentence in Evin prison in Tehran. She was arrested on January 3, 2010, along with her husband Babak Mobasher ( بابک مبشر). They were among 12 Tehran Bahais blamed for the Ashura protests in late 2009. Her brother Fu’ad Khanjani (فواد خانجانی), another student excluded from education, is serving a 4-years sentence in Raja’i Shahr prison.\r\n\r\nUpdate: March 25 2014\r\nLeva Khanjani ( لواء خانجانی ), a Bahai serving a two-year sentence in Evin prison, has been granted furlough for Naw Ruz. Leva Khanjani is a student excluded from education because of her Bahai beliefs. She was arrested on January 3, 2010, along with her husband Babak Mobasher, on the pretext that they had participated in street protests following the 2009 elections.\r\n\r\nUpdate June 24 2014\r\nLeva Khanjani ( لواء خانجانی ), a Bahai excluded from tertiary education, has been freed from Evin prison after serving most of a two-year sentence. She was arrested on January 3, 2010, along with her husband Babak Mobasher, on the pretext that they had participated in street protests following the 2009 elections. She began serving her sentence in Evin Prison, in Tehran, on August 25, 2012. Leva Khanjani is granddaughter of Jamaleddin Khanjani (جمالدین خانجانی), one of seven Bahai facilitators (Yaran) who were sentenced to 20 years in prison after their May 2008 arrest. Her brother Fu’ad Khanjani (فواد خانجانی) was sentenced to four years in prison by Tehran Revolutionary Court on January 17, 2012. Both Jamaleddin and Fu’ad Khanjani are now serving their sentences inside Raja’i Shahr Prison.",
+	"event_date": "2012-08-25T00:00:00.000Z",
+	"modified": "2014-07-17T04:01:03.807Z",
+	"modifiedBy": {
+		"name": "Troy Powell",
+		"_id": "50aaa0b19120ad0200000001"
+	},
+	"serialNumber": 68,
+	"soc": "Iran, Islamic Republic of",
+	"stage": "Polarization",
+	"title": "One Baha'i Citizen Begins 2-Year Sentence (Leva Khanjani)",
+	"sources": [{
+		"url": "http://sensday.wordpress.com/2012/09/01/leva-khanjani-begins-2-year-sentence/",
+		"sourcetype": "Blog",
+		"_id": "51684f7a9e93370200000025"
+	}, {
+		"url": "http://www.chrr.biz/spip.php?article21401",
+		"sourcetype": "NGO",
+		"_id": "5207c8d12c1cde0200000010"
+	}, {
+		"url": "http://sensday.wordpress.com/2014/03/25/leva-khanjani-given-prison-furlough/",
+		"sourcetype": "Newspaper",
+		"savedurl": "53a7af2a8583400200000010",
+		"_id": "53a7af2a8583400200000011"
+	}],
+	"tags": [{
+		"_id": "50ea2d9db33d990200000075",
+		"title": "Sentence Beginning"
+	}],
+	"Location": {
+		"latitude": "35.696111",
+		"longitude": "51.423055999999974",
+		"title": "Tehran, Iran"
+	}
+}]
